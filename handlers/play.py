@@ -164,16 +164,7 @@ async def play(_, message: Message):
                     InlineKeyboardButton(
                             text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
                             url=f"https://t.me/THE_BLAZE_NETWORK")
-               ],
-               [
-                    InlineKeyboardButton(
-                            text="[ᴶᵃᶜᵏ×͜× ] {ˢᵖᵃʳʳᵒʷ}",
-                            url=f"https://t.me/its_jack"),
-                            
-                    InlineKeyboardButton(
-                            text="feeling JACK",
-                            url=f"https://t.me/jackabout")
-               ],
+               ],             
                [
                         InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩⭐",
@@ -217,16 +208,7 @@ async def play(_, message: Message):
                     InlineKeyboardButton(
                             text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
                             url=f"https://t.me/THE_BLAZE_NETWORK")
-               ],
-               [
-                    InlineKeyboardButton(
-                            text="[ᴶᵃᶜᵏ×͜× ] {ˢᵖᵃʳʳᵒʷ}",
-                            url=f"https://t.me/its_jack"),
-                            
-                    InlineKeyboardButton(
-                            text="feeling JACK",
-                            url=f"https://t.me/jackabout")
-               ],
+               ],               
                [
                         InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩⭐",
@@ -247,16 +229,7 @@ async def play(_, message: Message):
                     InlineKeyboardButton(
                             text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
                             url=f"https://t.me/THE_BLAZE_NETWORK")
-               ],
-               [
-                    InlineKeyboardButton(
-                            text="[ᴶᵃᶜᵏ×͜× ] {ˢᵖᵃʳʳᵒʷ}",
-                            url=f"https://t.me/its_jack"),
-                            
-                    InlineKeyboardButton(
-                            text="feeling JACK",
-                            url=f"https://t.me/jackabout")
-               ],
+               ],               
                [
                         InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩⭐",
@@ -315,16 +288,7 @@ async def play(_, message: Message):
                     InlineKeyboardButton(
                             text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
                             url=f"https://t.me/THE_BLAZE_NETWORK")
-               ],
-               [
-                    InlineKeyboardButton(
-                            text="[ᴶᵃᶜᵏ×͜× ] {ˢᵖᵃʳʳᵒʷ}",
-                            url=f"https://t.me/its_jack"),
-                            
-                    InlineKeyboardButton(
-                            text="feeling JACK",
-                            url=f"https://t.me/jackabout")
-               ],
+               ],               
                [
                         InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩⭐",
