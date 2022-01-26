@@ -21,7 +21,7 @@ async def start_(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🥀 Jᴏɪɴ Hᴇʀᴇ & Sᴜᴘᴘᴏʀᴛ ✨", url=f"https://t.me/Friendschattinggrp")
+                        "this bot only for this group 👉", url=f"https://t.me/Friendschattinggrp")
                 ]
                 
            ]
