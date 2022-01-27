@@ -164,13 +164,7 @@ async def play(_, message: Message):
                     InlineKeyboardButton(
                             text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
                             url=f"https://t.me/THE_BLAZE_NETWORK")
-               ],             
-               [
-                        InlineKeyboardButton(
-                            text="𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/Friendschattinggrp")
-                   
-                ]
+               ]
             ]
         )
 
@@ -208,13 +202,7 @@ async def play(_, message: Message):
                     InlineKeyboardButton(
                             text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
                             url=f"https://t.me/THE_BLAZE_NETWORK")
-               ],               
-               [
-                        InlineKeyboardButton(
-                            text="𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/Friendschattinggrp")
-                   
-                ]
+               ]
             ]
         )
 
@@ -229,13 +217,7 @@ async def play(_, message: Message):
                     InlineKeyboardButton(
                             text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
                             url=f"https://t.me/THE_BLAZE_NETWORK")
-               ],               
-               [
-                        InlineKeyboardButton(
-                            text="𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/Friendschattinggrp")
-                   
-                ]
+               ]
             ]
         )
 
@@ -288,13 +270,7 @@ async def play(_, message: Message):
                     InlineKeyboardButton(
                             text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
                             url=f"https://t.me/THE_BLAZE_NETWORK")
-               ],               
-               [
-                        InlineKeyboardButton(
-                            text="𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/Friendschattinggrp")
-                   
-                ]
+               ]
             ]
         )
 
