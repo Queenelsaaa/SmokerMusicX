@@ -10,18 +10,19 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 @Client.on_message(command("start") & filters.private & ~filters.edited)
 async def start_(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/fc98d41cfda83f4e31cd9.jpg",
-        caption=f"""**𝐓𝐡𝐢𝐬 𝐈𝐬 𝐀𝐝𝐯𝐚𝐧𝐜𝐞 🥀𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐌𝐮𝐬𝐢𝐜 🎶 𝐁𝐨𝐭 𝐑𝐮𝐧 𝐎𝐧 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 🥀 𝐕𝐩𝐬 💫𝐒𝐞𝐫𝐯𝐞𝐫 🌎 𝐅𝐞𝐞𝐥 ❤️ 𝐇𝐢𝐠𝐡 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 𝐌𝐮𝐬𝐢𝐜 🎧 𝐈𝐧 𝐕𝐜 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐁𝐲 = [ᴶᵃᶜᵏ×͜×  ˢᵖᵃʳʳᵒʷ](t.me/Its_jack)
-
+        photo=f"https://te.legra.ph/file/520b104af857b36432b12.jpg",
+        caption=f"""**тнιѕ ιѕ ℓσνєℓу вσт🥀 ρℓαу  ѕσηg ση тєℓєgяαм ν¢😅 тнιѕ вσт ωσякιηg ση ƒяєє ѕєяνєя😂  = [ᴶᵃᶜᵏ×͜×  ˢᵖᵃʳʳᵒʷ](t.me/Its_jack)
 𝐂𝐫𝐞𝐚𝐭𝐨𝐫 :- [ᴶᵃᶜᵏ×͜×  ˢᵖᵃʳʳᵒʷ](t.me/Its_jack)
-
-
-𝐈𝐟 𝐘𝐨𝐮 𝐇𝐚𝐯𝐞 𝐀𝐧𝐲 𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬 𝐀𝐧𝐝 𝐇𝐞𝐥𝐩 𝐓𝐡𝐞𝐧 𝐃𝐦 𝐌𝐲 𝐁𝐨𝐬𝐬 = [ᴶᵃᶜᵏ×͜×  ˢᵖᵃʳʳᵒʷ](t.me/Its_jack)**""",
+𝐒𝐮𝐩𝐩𝐨𝐫𝐭 :- [✨ Our BOTS❤️🎸](https://t.me/our_powerfull_bots)
+𝐃𝐢𝐬𝐜𝐮𝐬𝐬 :- [✨  Chat group 🎧](https://t.me/CHATTINGxGROUP)
+𝐒𝐨𝐮𝐫𝐜𝐞  :- [  😂😂😂  ](https://t.me/jackabout)
+𝐂𝐨𝐦𝐦𝐚𝐧𝐝 :- [✨𝗖𝗹𝗶𝗰𝗸 ☑️ 𝗡𝗼𝘄 🚩]( https://telegra.ph/Commonds-02-03 )
+ = [ᴶᵃᶜᵏ×͜×  ˢᵖᵃʳʳᵒʷ](t.me/Its_jack)**""",
     reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "this bot only for this group 👉", url=f"https://t.me/Friendschattinggrp")
+                        "💗add me to your group😅💗", url=f"t.me/ansi_Ro_bot?startgroup=true")
                 ]
                 
            ]
